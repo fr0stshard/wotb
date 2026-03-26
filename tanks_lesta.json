@@ -1,0 +1,3576 @@
+{
+  "1": {
+    "level": 5,
+    "short": "Т-34",
+    "class": "mediumTank"
+  },
+  "257": {
+    "level": 5,
+    "short": "СУ-85",
+    "class": "AT-SPG"
+  },
+  "513": {
+    "level": 7,
+    "short": "ИС",
+    "class": "heavyTank"
+  },
+  "769": {
+    "level": 3,
+    "short": "БТ-7",
+    "class": "lightTank"
+  },
+  "1025": {
+    "level": 2,
+    "short": "БТ-2",
+    "class": "lightTank"
+  },
+  "1537": {
+    "level": 4,
+    "short": "Т-28 обр. 1940 г.",
+    "class": "mediumTank"
+  },
+  "2049": {
+    "level": 4,
+    "short": "А-20",
+    "class": "lightTank"
+  },
+  "2305": {
+    "level": 7,
+    "short": "СУ-152",
+    "class": "AT-SPG"
+  },
+  "2561": {
+    "level": 6,
+    "short": "Т-34-85",
+    "class": "mediumTank"
+  },
+  "2817": {
+    "level": 6,
+    "short": "КВ-1С",
+    "class": "heavyTank"
+  },
+  "3073": {
+    "level": 3,
+    "short": "Т-46",
+    "class": "lightTank"
+  },
+  "3329": {
+    "level": 1,
+    "short": "МС-1 обр. 1",
+    "class": "lightTank"
+  },
+  "3585": {
+    "level": 6,
+    "short": "СУ-100",
+    "class": "AT-SPG"
+  },
+  "4353": {
+    "level": 8,
+    "short": "Т-44",
+    "class": "mediumTank"
+  },
+  "4609": {
+    "level": 1,
+    "short": "Т-26",
+    "class": "lightTank"
+  },
+  "5121": {
+    "level": 2,
+    "short": "АТ-1",
+    "class": "AT-SPG"
+  },
+  "5377": {
+    "level": 8,
+    "short": "ИС-3",
+    "class": "heavyTank"
+  },
+  "5889": {
+    "level": 7,
+    "short": "КВ-3",
+    "class": "heavyTank"
+  },
+  "6145": {
+    "level": 10,
+    "short": "ИС-4",
+    "class": "heavyTank"
+  },
+  "6401": {
+    "level": 3,
+    "short": "СУ-76",
+    "class": "AT-SPG"
+  },
+  "6657": {
+    "level": 7,
+    "short": "Т-43",
+    "class": "mediumTank"
+  },
+  "6913": {
+    "level": 4,
+    "short": "СУ-85Б",
+    "class": "AT-SPG"
+  },
+  "7169": {
+    "level": 10,
+    "short": "ИС-7",
+    "class": "heavyTank"
+  },
+  "7425": {
+    "level": 8,
+    "short": "ИСУ-152",
+    "class": "AT-SPG"
+  },
+  "7937": {
+    "level": 9,
+    "short": "Т-54",
+    "class": "mediumTank"
+  },
+  "8193": {
+    "level": 9,
+    "short": "Об. 704",
+    "class": "AT-SPG"
+  },
+  "8961": {
+    "level": 7,
+    "short": "КВ-13",
+    "class": "mediumTank"
+  },
+  "9217": {
+    "level": 8,
+    "short": "ИС-6",
+    "class": "heavyTank"
+  },
+  "9985": {
+    "level": 8,
+    "short": "СУ-101",
+    "class": "AT-SPG"
+  },
+  "10241": {
+    "level": 7,
+    "short": "СУ-100М1",
+    "class": "AT-SPG"
+  },
+  "10497": {
+    "level": 6,
+    "short": "КВ-2",
+    "class": "heavyTank"
+  },
+  "10753": {
+    "level": 9,
+    "short": "СТ-I",
+    "class": "heavyTank"
+  },
+  "11009": {
+    "level": 8,
+    "short": "КВ-4",
+    "class": "heavyTank"
+  },
+  "11265": {
+    "level": 6,
+    "short": "Т-150",
+    "class": "heavyTank"
+  },
+  "11521": {
+    "level": 9,
+    "short": "ИС-8",
+    "class": "heavyTank"
+  },
+  "11777": {
+    "level": 5,
+    "short": "КВ-1",
+    "class": "heavyTank"
+  },
+  "12033": {
+    "level": 9,
+    "short": "СУ-122-54",
+    "class": "AT-SPG"
+  },
+  "62977": {
+    "level": 8,
+    "short": "T-44-100",
+    "class": "mediumTank"
+  },
+  "13569": {
+    "level": 10,
+    "short": "Об. 268",
+    "class": "AT-SPG"
+  },
+  "13825": {
+    "level": 10,
+    "short": "Т-62А",
+    "class": "mediumTank"
+  },
+  "14337": {
+    "level": 10,
+    "short": "Об. 263",
+    "class": "AT-SPG"
+  },
+  "15617": {
+    "level": 10,
+    "short": "Об. 907",
+    "class": "mediumTank"
+  },
+  "16641": {
+    "level": 6,
+    "short": "МТ-25",
+    "class": "lightTank"
+  },
+  "16897": {
+    "level": 10,
+    "short": "Об. 140",
+    "class": "mediumTank"
+  },
+  "18177": {
+    "level": 8,
+    "short": "Т-54 обл.",
+    "class": "lightTank"
+  },
+  "18433": {
+    "level": 7,
+    "short": "ЛТТБ",
+    "class": "lightTank"
+  },
+  "51201": {
+    "level": 5,
+    "short": "КВ-220 Т",
+    "class": "heavyTank"
+  },
+  "51457": {
+    "level": 5,
+    "short": "Матильда IV",
+    "class": "mediumTank"
+  },
+  "51713": {
+    "level": 5,
+    "short": "Черчилль III",
+    "class": "heavyTank"
+  },
+  "52225": {
+    "level": 3,
+    "short": "БТ-СВ",
+    "class": "lightTank"
+  },
+  "52481": {
+    "level": 4,
+    "short": "Валентайн II",
+    "class": "lightTank"
+  },
+  "52737": {
+    "level": 3,
+    "short": "М3 лёгкий",
+    "class": "lightTank"
+  },
+  "52993": {
+    "level": 4,
+    "short": "А-32",
+    "class": "mediumTank"
+  },
+  "53249": {
+    "level": 8,
+    "short": "КВ-5",
+    "class": "heavyTank"
+  },
+  "53505": {
+    "level": 3,
+    "short": "Т-127",
+    "class": "lightTank"
+  },
+  "53761": {
+    "level": 5,
+    "short": "СУ-85И",
+    "class": "AT-SPG"
+  },
+  "54273": {
+    "level": 3,
+    "short": "СУ-76И",
+    "class": "AT-SPG"
+  },
+  "54529": {
+    "level": 2,
+    "short": "Тетрарх",
+    "class": "lightTank"
+  },
+  "54785": {
+    "level": 6,
+    "short": "СУ-100Y",
+    "class": "AT-SPG"
+  },
+  "55297": {
+    "level": 7,
+    "short": "СУ-122-44",
+    "class": "AT-SPG"
+  },
+  "56577": {
+    "level": 3,
+    "short": "ЛТП",
+    "class": "lightTank"
+  },
+  "58881": {
+    "level": 8,
+    "short": "ИС-5",
+    "class": "heavyTank"
+  },
+  "59137": {
+    "level": 7,
+    "short": "ИС-2 (1945)",
+    "class": "heavyTank"
+  },
+  "59649": {
+    "level": 7,
+    "short": "ИСУ-122С",
+    "class": "AT-SPG"
+  },
+  "59905": {
+    "level": 8,
+    "short": "Т-54 обр. 1",
+    "class": "mediumTank"
+  },
+  "60161": {
+    "level": 8,
+    "short": "ИС-2Ш",
+    "class": "heavyTank"
+  },
+  "60417": {
+    "level": 8,
+    "short": "ИС-3 Защитник",
+    "class": "heavyTank"
+  },
+  "60929": {
+    "level": 3,
+    "short": "БТ-7 арт.",
+    "class": "lightTank"
+  },
+  "64001": {
+    "level": 7,
+    "short": "T-34-85 Рыжий",
+    "class": "mediumTank"
+  },
+  "64257": {
+    "level": 6,
+    "short": "T-34-85 Победный",
+    "class": "mediumTank"
+  },
+  "64769": {
+    "level": 8,
+    "short": "ИС-6 Бесстрашный",
+    "class": "heavyTank"
+  },
+  "65025": {
+    "level": 1,
+    "short": "МС-1 обр. 1",
+    "class": "lightTank"
+  },
+  "65281": {
+    "level": 1,
+    "short": "МС-1 обр. 1",
+    "class": "lightTank"
+  },
+  "12545": {
+    "level": 9,
+    "short": "К-91",
+    "class": "heavyTank"
+  },
+  "18689": {
+    "level": 3,
+    "short": "Т-70/57",
+    "class": "lightTank"
+  },
+  "18945": {
+    "level": 8,
+    "short": "ИСУ-130",
+    "class": "AT-SPG"
+  },
+  "19201": {
+    "level": 1,
+    "short": "Т-26",
+    "class": "lightTank"
+  },
+  "19457": {
+    "level": 1,
+    "short": "Т-26",
+    "class": "lightTank"
+  },
+  "19713": {
+    "level": 6,
+    "short": "Шерман Лозы",
+    "class": "mediumTank"
+  },
+  "19969": {
+    "level": 10,
+    "short": "Т-22 ср.",
+    "class": "mediumTank"
+  },
+  "20481": {
+    "level": 8,
+    "short": "Об. 252У",
+    "class": "heavyTank"
+  },
+  "20737": {
+    "level": 8,
+    "short": "СУ-130ПМ",
+    "class": "AT-SPG"
+  },
+  "20993": {
+    "level": 8,
+    "short": "Т-2020",
+    "class": "heavyTank"
+  },
+  "21249": {
+    "level": 6,
+    "short": "Гром",
+    "class": "heavyTank"
+  },
+  "21505": {
+    "level": 7,
+    "short": "Т-44-85",
+    "class": "mediumTank"
+  },
+  "21761": {
+    "level": 8,
+    "short": "СТГ",
+    "class": "mediumTank"
+  },
+  "22017": {
+    "level": 6,
+    "short": "Т-34-85",
+    "class": "mediumTank"
+  },
+  "22273": {
+    "level": 10,
+    "short": "Об. 260",
+    "class": "heavyTank"
+  },
+  "22529": {
+    "level": 8,
+    "short": "ЛТ-432",
+    "class": "lightTank"
+  },
+  "22785": {
+    "level": 6,
+    "short": "Триумфатор",
+    "class": "mediumTank"
+  },
+  "23041": {
+    "level": 5,
+    "short": "Т-34 экр.",
+    "class": "mediumTank"
+  },
+  "23297": {
+    "level": 6,
+    "short": "Объект 244",
+    "class": "heavyTank"
+  },
+  "23553": {
+    "level": 2,
+    "short": "МС-1",
+    "class": "lightTank"
+  },
+  "23809": {
+    "level": 9,
+    "short": "Объект 84",
+    "class": "lightTank"
+  },
+  "24065": {
+    "level": 7,
+    "short": "ЛТГ",
+    "class": "lightTank"
+  },
+  "24321": {
+    "level": 10,
+    "short": "Т-100 ЛТ",
+    "class": "lightTank"
+  },
+  "24577": {
+    "level": 10,
+    "short": "Объект 268/4",
+    "class": "AT-SPG"
+  },
+  "24833": {
+    "level": 10,
+    "short": "ИС-7 Стриж",
+    "class": "heavyTank"
+  },
+  "25089": {
+    "level": 9,
+    "short": "Объект 752",
+    "class": "heavyTank"
+  },
+  "25345": {
+    "level": 8,
+    "short": "Объект 274a",
+    "class": "mediumTank"
+  },
+  "25601": {
+    "level": 7,
+    "short": "ИС-2 экр.",
+    "class": "heavyTank"
+  },
+  "25857": {
+    "level": 10,
+    "short": "Об. 777 II",
+    "class": "heavyTank"
+  },
+  "26113": {
+    "level": 9,
+    "short": "Объект 452К",
+    "class": "heavyTank"
+  },
+  "26369": {
+    "level": 8,
+    "short": "СТ-62 вар. 2",
+    "class": "mediumTank"
+  },
+  "26881": {
+    "level": 8,
+    "short": "Об. 590",
+    "class": "mediumTank"
+  },
+  "27137": {
+    "level": 9,
+    "short": "Об. 283",
+    "class": "mediumTank"
+  },
+  "27393": {
+    "level": 8,
+    "short": "ЛТС-85",
+    "class": "lightTank"
+  },
+  "27649": {
+    "level": 6,
+    "short": "КВ-1С МЗ",
+    "class": "heavyTank"
+  },
+  "27905": {
+    "level": 8,
+    "short": "КВ-4Т",
+    "class": "heavyTank"
+  },
+  "28161": {
+    "level": 6,
+    "short": "Т-V/85",
+    "class": "mediumTank"
+  },
+  "28417": {
+    "level": 10,
+    "short": "Об. 780",
+    "class": "heavyTank"
+  },
+  "28673": {
+    "level": 6,
+    "short": "СУ-122",
+    "class": "AT-SPG"
+  },
+  "29185": {
+    "level": 8,
+    "short": "Т-44-122",
+    "class": "mediumTank"
+  },
+  "29441": {
+    "level": 10,
+    "short": "Об. 430Б",
+    "class": "mediumTank"
+  },
+  "29697": {
+    "level": 8,
+    "short": "Диамант",
+    "class": "AT-SPG"
+  },
+  "29953": {
+    "level": 8,
+    "short": "ИС-3 Татушки",
+    "class": "heavyTank"
+  },
+  "30209": {
+    "level": 10,
+    "short": "МС-11",
+    "class": "mediumTank"
+  },
+  "30465": {
+    "level": 8,
+    "short": "Объект 703 II",
+    "class": "heavyTank"
+  },
+  "30721": {
+    "level": 10,
+    "short": "СТ-II",
+    "class": "heavyTank"
+  },
+  "30977": {
+    "level": 9,
+    "short": "ИС-3-II",
+    "class": "heavyTank"
+  },
+  "31233": {
+    "level": 8,
+    "short": "ИС-2-II",
+    "class": "heavyTank"
+  },
+  "31489": {
+    "level": 8,
+    "short": "Об. 259А",
+    "class": "heavyTank",
+    "testTank": true
+  },
+  "31745": {
+    "level": 9,
+    "short": "ИСУ-152К",
+    "class": "AT-SPG",
+    "testTank": true
+  },
+  "32001": {
+    "level": 9,
+    "short": "К-91-ПТ",
+    "class": "AT-SPG",
+    "testTank": true
+  },
+  "17": {
+    "level": 5,
+    "short": "Pz. IV G",
+    "class": "mediumTank"
+  },
+  "529": {
+    "level": 7,
+    "short": "Tiger I",
+    "class": "heavyTank"
+  },
+  "785": {
+    "level": 2,
+    "short": "Pz. 35 (t)",
+    "class": "lightTank"
+  },
+  "1041": {
+    "level": 5,
+    "short": "StuG III G",
+    "class": "AT-SPG"
+  },
+  "1297": {
+    "level": 7,
+    "short": "Panther",
+    "class": "mediumTank"
+  },
+  "1553": {
+    "level": 6,
+    "short": "Jg.Pz. IV",
+    "class": "AT-SPG"
+  },
+  "1809": {
+    "level": 4,
+    "short": "Hetzer",
+    "class": "AT-SPG"
+  },
+  "2065": {
+    "level": 1,
+    "short": "Pz. II",
+    "class": "lightTank"
+  },
+  "2321": {
+    "level": 6,
+    "short": "VK 36.01 H",
+    "class": "heavyTank"
+  },
+  "2577": {
+    "level": 5,
+    "short": "VK 30.01 H",
+    "class": "heavyTank"
+  },
+  "3089": {
+    "level": 1,
+    "short": "L.Tr.",
+    "class": "lightTank"
+  },
+  "3345": {
+    "level": 3,
+    "short": "Pz. 38 (t)",
+    "class": "lightTank"
+  },
+  "3601": {
+    "level": 2,
+    "short": "Pz.Jäg. I",
+    "class": "AT-SPG"
+  },
+  "3857": {
+    "level": 7,
+    "short": "JPanther",
+    "class": "AT-SPG"
+  },
+  "4113": {
+    "level": 7,
+    "short": "VK 30.02 D",
+    "class": "mediumTank"
+  },
+  "4369": {
+    "level": 3,
+    "short": "Pz. III",
+    "class": "mediumTank"
+  },
+  "4881": {
+    "level": 3,
+    "short": "Pz. III A",
+    "class": "lightTank"
+  },
+  "5137": {
+    "level": 8,
+    "short": "Tiger II",
+    "class": "heavyTank"
+  },
+  "5393": {
+    "level": 5,
+    "short": "Leopard",
+    "class": "lightTank"
+  },
+  "6161": {
+    "level": 4,
+    "short": "Luchs",
+    "class": "lightTank"
+  },
+  "6417": {
+    "level": 5,
+    "short": "Pz. III/IV",
+    "class": "mediumTank"
+  },
+  "6673": {
+    "level": 3,
+    "short": "Marder II",
+    "class": "AT-SPG"
+  },
+  "6929": {
+    "level": 10,
+    "short": "Maus",
+    "class": "heavyTank"
+  },
+  "7185": {
+    "level": 6,
+    "short": "VK 30.01 P",
+    "class": "mediumTank"
+  },
+  "7441": {
+    "level": 9,
+    "short": "VK 45.02 B",
+    "class": "heavyTank"
+  },
+  "7697": {
+    "level": 8,
+    "short": "Ferdinand",
+    "class": "AT-SPG"
+  },
+  "7953": {
+    "level": 9,
+    "short": "Jagdtiger",
+    "class": "AT-SPG"
+  },
+  "8209": {
+    "level": 4,
+    "short": "Pz. 38 nA",
+    "class": "lightTank"
+  },
+  "8465": {
+    "level": 8,
+    "short": "Panther II",
+    "class": "mediumTank"
+  },
+  "9489": {
+    "level": 10,
+    "short": "E 100",
+    "class": "heavyTank"
+  },
+  "9745": {
+    "level": 9,
+    "short": "E 75",
+    "class": "heavyTank"
+  },
+  "10001": {
+    "level": 6,
+    "short": "VK 28.01",
+    "class": "lightTank"
+  },
+  "10257": {
+    "level": 9,
+    "short": "E 50",
+    "class": "mediumTank"
+  },
+  "10513": {
+    "level": 8,
+    "short": "VK 45.02 A",
+    "class": "heavyTank"
+  },
+  "10769": {
+    "level": 7,
+    "short": "Tiger (P)",
+    "class": "heavyTank"
+  },
+  "11025": {
+    "level": 7,
+    "short": "St. Emil",
+    "class": "AT-SPG"
+  },
+  "11537": {
+    "level": 8,
+    "short": "JPanther II",
+    "class": "AT-SPG"
+  },
+  "11793": {
+    "level": 6,
+    "short": "Nashorn",
+    "class": "AT-SPG"
+  },
+  "12049": {
+    "level": 10,
+    "short": "Jg.Pz. E 100",
+    "class": "AT-SPG"
+  },
+  "12305": {
+    "level": 10,
+    "short": "E 50 M",
+    "class": "mediumTank"
+  },
+  "13073": {
+    "level": 3,
+    "short": "Pz. II G",
+    "class": "lightTank"
+  },
+  "13329": {
+    "level": 4,
+    "short": "D.W. 2",
+    "class": "heavyTank"
+  },
+  "13841": {
+    "level": 8,
+    "short": "Indien-Pz.",
+    "class": "mediumTank"
+  },
+  "14097": {
+    "level": 6,
+    "short": "VK 30.01 D",
+    "class": "mediumTank"
+  },
+  "14609": {
+    "level": 10,
+    "short": "Leopard 1",
+    "class": "mediumTank"
+  },
+  "14865": {
+    "level": 9,
+    "short": "Leopard PT A",
+    "class": "mediumTank"
+  },
+  "15889": {
+    "level": 6,
+    "short": "VK 30.02 M",
+    "class": "mediumTank"
+  },
+  "16145": {
+    "level": 5,
+    "short": "Pz.Sfl. IVc",
+    "class": "AT-SPG"
+  },
+  "16401": {
+    "level": 9,
+    "short": "WT auf Pz. IV",
+    "class": "AT-SPG"
+  },
+  "16657": {
+    "level": 8,
+    "short": "Rhm.-B. WT",
+    "class": "AT-SPG"
+  },
+  "17169": {
+    "level": 3,
+    "short": "Pz. IV A",
+    "class": "mediumTank"
+  },
+  "17425": {
+    "level": 4,
+    "short": "Pz. IV D",
+    "class": "mediumTank"
+  },
+  "18449": {
+    "level": 8,
+    "short": "Ru 251",
+    "class": "lightTank"
+  },
+  "18961": {
+    "level": 7,
+    "short": "SP I C",
+    "class": "lightTank"
+  },
+  "19217": {
+    "level": 10,
+    "short": "Grille 15",
+    "class": "AT-SPG"
+  },
+  "51473": {
+    "level": 5,
+    "short": "Pz. V/IV",
+    "class": "mediumTank"
+  },
+  "51729": {
+    "level": 3,
+    "short": "Pz. II J",
+    "class": "lightTank"
+  },
+  "51985": {
+    "level": 3,
+    "short": "Pz. S35",
+    "class": "mediumTank"
+  },
+  "52241": {
+    "level": 4,
+    "short": "Pz. B2",
+    "class": "heavyTank"
+  },
+  "52497": {
+    "level": 2,
+    "short": "Pz. 38H",
+    "class": "lightTank"
+  },
+  "54289": {
+    "level": 8,
+    "short": "Löwe",
+    "class": "heavyTank"
+  },
+  "54545": {
+    "level": 5,
+    "short": "T-25",
+    "class": "mediumTank"
+  },
+  "54801": {
+    "level": 3,
+    "short": "T-15",
+    "class": "lightTank"
+  },
+  "55057": {
+    "level": 5,
+    "short": "Pz. IV hydr.",
+    "class": "mediumTank"
+  },
+  "55313": {
+    "level": 8,
+    "short": "JgTig.8,8 cm",
+    "class": "AT-SPG"
+  },
+  "57105": {
+    "level": 6,
+    "short": "Dicker Max",
+    "class": "AT-SPG"
+  },
+  "57361": {
+    "level": 6,
+    "short": "Pz. IV S.",
+    "class": "mediumTank"
+  },
+  "57617": {
+    "level": 7,
+    "short": "Panther/M10",
+    "class": "mediumTank"
+  },
+  "58641": {
+    "level": 10,
+    "short": "VK 72.01 K",
+    "class": "heavyTank"
+  },
+  "59665": {
+    "level": 3,
+    "short": "Großtraktor",
+    "class": "heavyTank"
+  },
+  "60177": {
+    "level": 8,
+    "short": "Panther 8,8",
+    "class": "mediumTank"
+  },
+  "62737": {
+    "level": 8,
+    "short": "leKpz M 41 90 mm",
+    "class": "lightTank"
+  },
+  "62993": {
+    "level": 7,
+    "short": "VK 45.03",
+    "class": "heavyTank"
+  },
+  "64017": {
+    "level": 7,
+    "short": "Франкенштанк",
+    "class": "heavyTank"
+  },
+  "64273": {
+    "level": 8,
+    "short": "JgTig.8,8 cm (2015)",
+    "class": "AT-SPG"
+  },
+  "64529": {
+    "level": 7,
+    "short": "E 25",
+    "class": "AT-SPG"
+  },
+  "64785": {
+    "level": 1,
+    "short": "Pz. II",
+    "class": "lightTank"
+  },
+  "65041": {
+    "level": 1,
+    "short": "L.Tr.",
+    "class": "lightTank"
+  },
+  "65297": {
+    "level": 1,
+    "short": "L.Tr.",
+    "class": "lightTank"
+  },
+  "11281": {
+    "level": 9,
+    "short": "Kpz 70",
+    "class": "heavyTank"
+  },
+  "19473": {
+    "level": 5,
+    "short": "Krupp-38(D)",
+    "class": "mediumTank"
+  },
+  "19729": {
+    "level": 6,
+    "short": "Tiger 131",
+    "class": "heavyTank"
+  },
+  "19985": {
+    "level": 8,
+    "short": "Skorpion G",
+    "class": "AT-SPG"
+  },
+  "20241": {
+    "level": 1,
+    "short": "Pz. II",
+    "class": "lightTank"
+  },
+  "20497": {
+    "level": 8,
+    "short": "VK 100.01 (P)",
+    "class": "heavyTank"
+  },
+  "20753": {
+    "level": 9,
+    "short": "Mäuschen",
+    "class": "heavyTank"
+  },
+  "21009": {
+    "level": 8,
+    "short": "Panzer 58",
+    "class": "mediumTank"
+  },
+  "21265": {
+    "level": 8,
+    "short": "VK 168.01 (P)",
+    "class": "heavyTank"
+  },
+  "21521": {
+    "level": 8,
+    "short": "E 75 TS",
+    "class": "heavyTank"
+  },
+  "21777": {
+    "level": 10,
+    "short": "VK 90.01 (P)",
+    "class": "heavyTank"
+  },
+  "22033": {
+    "level": 6,
+    "short": "Диверсант",
+    "class": "lightTank"
+  },
+  "22289": {
+    "level": 6,
+    "short": "Tiger I",
+    "class": "heavyTank"
+  },
+  "22545": {
+    "level": 8,
+    "short": "Kanonenjagdpanzer",
+    "class": "AT-SPG"
+  },
+  "22801": {
+    "level": 6,
+    "short": "Ледокол",
+    "class": "heavyTank"
+  },
+  "23057": {
+    "level": 7,
+    "short": "Kunze Panzer",
+    "class": "lightTank"
+  },
+  "23313": {
+    "level": 10,
+    "short": "Kpz 50 t",
+    "class": "mediumTank"
+  },
+  "23569": {
+    "level": 5,
+    "short": "Pz. IV Гаргулья",
+    "class": "mediumTank"
+  },
+  "23825": {
+    "level": 7,
+    "short": "Steyr WT",
+    "class": "AT-SPG"
+  },
+  "24081": {
+    "level": 6,
+    "short": "U-Panzer",
+    "class": "mediumTank"
+  },
+  "24337": {
+    "level": 8,
+    "short": "M48A2 Räumpanzer",
+    "class": "mediumTank"
+  },
+  "24593": {
+    "level": 8,
+    "short": "Keiler",
+    "class": "heavyTank"
+  },
+  "24849": {
+    "level": 6,
+    "short": "Kryos",
+    "class": "AT-SPG"
+  },
+  "25105": {
+    "level": 6,
+    "short": "Barkhan",
+    "class": "heavyTank"
+  },
+  "25361": {
+    "level": 9,
+    "short": "WT Ritter",
+    "class": "AT-SPG"
+  },
+  "25617": {
+    "level": 8,
+    "short": "HWK 30",
+    "class": "lightTank"
+  },
+  "25873": {
+    "level": 7,
+    "short": "Elefant",
+    "class": "AT-SPG"
+  },
+  "26129": {
+    "level": 6,
+    "short": "Эпсилон",
+    "class": "AT-SPG"
+  },
+  "26641": {
+    "level": 8,
+    "short": "Kpz 07 RH",
+    "class": "mediumTank"
+  },
+  "26897": {
+    "level": 8,
+    "short": "Kpz. Pr.68 (P)",
+    "class": "mediumTank"
+  },
+  "27153": {
+    "level": 7,
+    "short": "Aufkl. Panther",
+    "class": "lightTank"
+  },
+  "27409": {
+    "level": 9,
+    "short": "E 75 Berserker",
+    "class": "heavyTank"
+  },
+  "27665": {
+    "level": 10,
+    "short": "Erich Kn. I",
+    "class": "mediumTank"
+  },
+  "27921": {
+    "level": 8,
+    "short": "Tiger II Gold",
+    "class": "heavyTank"
+  },
+  "28177": {
+    "level": 10,
+    "short": "Kpz 07 P(E)",
+    "class": "heavyTank"
+  },
+  "28689": {
+    "level": 10,
+    "short": "Jg.Pz. E 100 Gold",
+    "class": "AT-SPG"
+  },
+  "28433": {
+    "level": 8,
+    "short": "VK 75.01 (K)",
+    "class": "heavyTank"
+  },
+  "28945": {
+    "level": 10,
+    "short": "Tiger-Maus",
+    "class": "heavyTank"
+  },
+  "29201": {
+    "level": 10,
+    "short": "StuG Maus",
+    "class": "AT-SPG"
+  },
+  "33": {
+    "level": 5,
+    "short": "T14",
+    "class": "heavyTank"
+  },
+  "289": {
+    "level": 2,
+    "short": "M3 Stuart",
+    "class": "lightTank"
+  },
+  "545": {
+    "level": 1,
+    "short": "T1",
+    "class": "lightTank"
+  },
+  "801": {
+    "level": 6,
+    "short": "M6",
+    "class": "heavyTank"
+  },
+  "1057": {
+    "level": 5,
+    "short": "M4 Sherman",
+    "class": "mediumTank"
+  },
+  "1313": {
+    "level": 6,
+    "short": "M4A3E8",
+    "class": "mediumTank"
+  },
+  "1569": {
+    "level": 7,
+    "short": "T20",
+    "class": "mediumTank"
+  },
+  "1825": {
+    "level": 1,
+    "short": "M2 Light",
+    "class": "lightTank"
+  },
+  "2593": {
+    "level": 9,
+    "short": "T30",
+    "class": "AT-SPG"
+  },
+  "2849": {
+    "level": 8,
+    "short": "T34",
+    "class": "heavyTank"
+  },
+  "3105": {
+    "level": 4,
+    "short": "M3 Lee",
+    "class": "mediumTank"
+  },
+  "3361": {
+    "level": 5,
+    "short": "T1 Heavy",
+    "class": "heavyTank"
+  },
+  "3873": {
+    "level": 7,
+    "short": "T29",
+    "class": "heavyTank"
+  },
+  "4385": {
+    "level": 8,
+    "short": "T32",
+    "class": "heavyTank"
+  },
+  "4897": {
+    "level": 3,
+    "short": "M2 Medium",
+    "class": "mediumTank"
+  },
+  "5153": {
+    "level": 3,
+    "short": "M5 Stuart",
+    "class": "lightTank"
+  },
+  "5409": {
+    "level": 4,
+    "short": "M7",
+    "class": "mediumTank"
+  },
+  "5665": {
+    "level": 2,
+    "short": "T2 Medium",
+    "class": "mediumTank"
+  },
+  "5921": {
+    "level": 8,
+    "short": "Pershing",
+    "class": "mediumTank"
+  },
+  "6177": {
+    "level": 2,
+    "short": "T18",
+    "class": "AT-SPG"
+  },
+  "6433": {
+    "level": 3,
+    "short": "T82",
+    "class": "AT-SPG"
+  },
+  "6945": {
+    "level": 5,
+    "short": "Wolverine",
+    "class": "AT-SPG"
+  },
+  "7201": {
+    "level": 6,
+    "short": "Jackson",
+    "class": "AT-SPG"
+  },
+  "7713": {
+    "level": 4,
+    "short": "T40",
+    "class": "AT-SPG"
+  },
+  "8225": {
+    "level": 8,
+    "short": "T28",
+    "class": "AT-SPG"
+  },
+  "8737": {
+    "level": 9,
+    "short": "T95",
+    "class": "AT-SPG"
+  },
+  "8993": {
+    "level": 9,
+    "short": "M46 Patton",
+    "class": "mediumTank"
+  },
+  "9249": {
+    "level": 7,
+    "short": "T25 AT",
+    "class": "AT-SPG"
+  },
+  "9505": {
+    "level": 9,
+    "short": "M103",
+    "class": "heavyTank"
+  },
+  "9761": {
+    "level": 6,
+    "short": "Chaffee",
+    "class": "lightTank"
+  },
+  "10017": {
+    "level": 6,
+    "short": "M4A3E2",
+    "class": "mediumTank"
+  },
+  "10273": {
+    "level": 4,
+    "short": "M8A1",
+    "class": "AT-SPG"
+  },
+  "10529": {
+    "level": 5,
+    "short": "T67",
+    "class": "AT-SPG"
+  },
+  "10785": {
+    "level": 10,
+    "short": "T110E5",
+    "class": "heavyTank"
+  },
+  "11041": {
+    "level": 7,
+    "short": "T25/2",
+    "class": "AT-SPG"
+  },
+  "11297": {
+    "level": 8,
+    "short": "T28 Prot.",
+    "class": "AT-SPG"
+  },
+  "11553": {
+    "level": 6,
+    "short": "Hellcat",
+    "class": "AT-SPG"
+  },
+  "11809": {
+    "level": 7,
+    "short": "T23E3",
+    "class": "mediumTank"
+  },
+  "13089": {
+    "level": 10,
+    "short": "T110E4",
+    "class": "AT-SPG"
+  },
+  "13345": {
+    "level": 8,
+    "short": "T26E4",
+    "class": "mediumTank"
+  },
+  "13857": {
+    "level": 10,
+    "short": "T110E3",
+    "class": "AT-SPG"
+  },
+  "14113": {
+    "level": 10,
+    "short": "M48 Patton",
+    "class": "mediumTank"
+  },
+  "14625": {
+    "level": 8,
+    "short": "T69",
+    "class": "mediumTank"
+  },
+  "14881": {
+    "level": 10,
+    "short": "T57 Heavy",
+    "class": "heavyTank"
+  },
+  "15137": {
+    "level": 6,
+    "short": "T21",
+    "class": "lightTank"
+  },
+  "15393": {
+    "level": 9,
+    "short": "T54E1",
+    "class": "mediumTank"
+  },
+  "15649": {
+    "level": 7,
+    "short": "T71",
+    "class": "lightTank"
+  },
+  "15905": {
+    "level": 10,
+    "short": "M60",
+    "class": "mediumTank"
+  },
+  "16673": {
+    "level": 6,
+    "short": "T37",
+    "class": "lightTank"
+  },
+  "17953": {
+    "level": 7,
+    "short": "M41 Bulldog",
+    "class": "lightTank"
+  },
+  "18209": {
+    "level": 8,
+    "short": "T49",
+    "class": "lightTank"
+  },
+  "51489": {
+    "level": 2,
+    "short": "T2 Light",
+    "class": "lightTank"
+  },
+  "51745": {
+    "level": 5,
+    "short": "Ram II",
+    "class": "mediumTank"
+  },
+  "52257": {
+    "level": 5,
+    "short": "M4A2E4",
+    "class": "mediumTank"
+  },
+  "52513": {
+    "level": 7,
+    "short": "M6A2E1",
+    "class": "heavyTank"
+  },
+  "52769": {
+    "level": 3,
+    "short": "Locust",
+    "class": "lightTank"
+  },
+  "53025": {
+    "level": 8,
+    "short": "M6A2E1 EXP",
+    "class": "heavyTank"
+  },
+  "53537": {
+    "level": 2,
+    "short": "T1E6",
+    "class": "lightTank"
+  },
+  "55073": {
+    "level": 2,
+    "short": "T7 Car",
+    "class": "lightTank"
+  },
+  "56097": {
+    "level": 6,
+    "short": "M4A3E8 (L)",
+    "class": "mediumTank"
+  },
+  "56609": {
+    "level": 7,
+    "short": "T28 HTC",
+    "class": "AT-SPG"
+  },
+  "64801": {
+    "level": 8,
+    "short": "T34 (1776)",
+    "class": "heavyTank"
+  },
+  "65057": {
+    "level": 1,
+    "short": "T1",
+    "class": "lightTank"
+  },
+  "65313": {
+    "level": 1,
+    "short": "T1",
+    "class": "lightTank"
+  },
+  "6689": {
+    "level": 7,
+    "short": "T49 П",
+    "class": "lightTank"
+  },
+  "12065": {
+    "level": 8,
+    "short": "T95E2",
+    "class": "mediumTank"
+  },
+  "12321": {
+    "level": 4,
+    "short": "T6E1 Grizzly",
+    "class": "mediumTank"
+  },
+  "18465": {
+    "level": 1,
+    "short": "M2 Light",
+    "class": "lightTank"
+  },
+  "18721": {
+    "level": 1,
+    "short": "M2 Light",
+    "class": "lightTank"
+  },
+  "18977": {
+    "level": 10,
+    "short": "T95E6",
+    "class": "heavyTank"
+  },
+  "19233": {
+    "level": 8,
+    "short": "Chrysler K",
+    "class": "heavyTank"
+  },
+  "19489": {
+    "level": 8,
+    "short": "T28 Defender",
+    "class": "AT-SPG"
+  },
+  "19745": {
+    "level": 8,
+    "short": "T26E5",
+    "class": "heavyTank"
+  },
+  "20001": {
+    "level": 9,
+    "short": "T92E1",
+    "class": "lightTank"
+  },
+  "20257": {
+    "level": 10,
+    "short": "Sheridan",
+    "class": "lightTank"
+  },
+  "20513": {
+    "level": 8,
+    "short": "T54E2",
+    "class": "heavyTank"
+  },
+  "20769": {
+    "level": 8,
+    "short": "T25 Pilot 1",
+    "class": "mediumTank"
+  },
+  "21025": {
+    "level": 7,
+    "short": "T26E3 Eagle 7",
+    "class": "mediumTank"
+  },
+  "21281": {
+    "level": 6,
+    "short": "Рудольф",
+    "class": "mediumTank"
+  },
+  "21537": {
+    "level": 6,
+    "short": "Sherman Easy 8",
+    "class": "mediumTank"
+  },
+  "21793": {
+    "level": 10,
+    "short": "Sheridan Ракетный",
+    "class": "lightTank"
+  },
+  "22049": {
+    "level": 6,
+    "short": "Magnus",
+    "class": "heavyTank"
+  },
+  "22305": {
+    "level": 9,
+    "short": "AE Phase I",
+    "class": "heavyTank"
+  },
+  "22561": {
+    "level": 8,
+    "short": "TS-5",
+    "class": "AT-SPG"
+  },
+  "22817": {
+    "level": 10,
+    "short": "M-VI-Yoh",
+    "class": "heavyTank"
+  },
+  "23073": {
+    "level": 9,
+    "short": "M-V-Yoh",
+    "class": "heavyTank"
+  },
+  "23329": {
+    "level": 8,
+    "short": "M-III-Yoh",
+    "class": "heavyTank"
+  },
+  "23585": {
+    "level": 7,
+    "short": "M-VII-Yoh",
+    "class": "heavyTank"
+  },
+  "23841": {
+    "level": 7,
+    "short": "Super Hellcat",
+    "class": "AT-SPG"
+  },
+  "24097": {
+    "level": 6,
+    "short": "BLTZ9000",
+    "class": "mediumTank"
+  },
+  "24609": {
+    "level": 10,
+    "short": "Concept 1B",
+    "class": "heavyTank"
+  },
+  "24865": {
+    "level": 8,
+    "short": "Scepter",
+    "class": "heavyTank"
+  },
+  "25377": {
+    "level": 8,
+    "short": "T77",
+    "class": "heavyTank"
+  },
+  "25889": {
+    "level": 6,
+    "short": "Рейнджер",
+    "class": "lightTank"
+  },
+  "25633": {
+    "level": 8,
+    "short": "M-IV-Y",
+    "class": "heavyTank"
+  },
+  "26145": {
+    "level": 5,
+    "short": "High Score",
+    "class": "mediumTank"
+  },
+  "26401": {
+    "level": 6,
+    "short": "Enforcer",
+    "class": "AT-SPG"
+  },
+  "26657": {
+    "level": 8,
+    "short": "ASTRON Rex",
+    "class": "mediumTank"
+  },
+  "26913": {
+    "level": 6,
+    "short": "Frosty",
+    "class": "lightTank"
+  },
+  "27169": {
+    "level": 6,
+    "short": "Лидер",
+    "class": "heavyTank"
+  },
+  "27425": {
+    "level": 9,
+    "short": "TL-7-120",
+    "class": "heavyTank"
+  },
+  "27681": {
+    "level": 6,
+    "short": "Pawlack Tank",
+    "class": "heavyTank"
+  },
+  "27937": {
+    "level": 8,
+    "short": "T49 Бесстрашный",
+    "class": "lightTank"
+  },
+  "28193": {
+    "level": 8,
+    "short": "TS-60",
+    "class": "AT-SPG"
+  },
+  "28449": {
+    "level": 7,
+    "short": "T42",
+    "class": "mediumTank"
+  },
+  "28705": {
+    "level": 10,
+    "short": "XM66F",
+    "class": "AT-SPG"
+  },
+  "29217": {
+    "level": 8,
+    "short": "T32E4",
+    "class": "heavyTank"
+  },
+  "29473": {
+    "level": 8,
+    "short": "AMBT",
+    "class": "mediumTank"
+  },
+  "29729": {
+    "level": 10,
+    "short": "AAT60",
+    "class": "AT-SPG"
+  },
+  "29985": {
+    "level": 8,
+    "short": "TL-1 LPC",
+    "class": "mediumTank"
+  },
+  "30241": {
+    "level": 10,
+    "short": "MBT-B",
+    "class": "heavyTank"
+  },
+  "30497": {
+    "level": 8,
+    "short": "M46 Blitz",
+    "class": "mediumTank"
+  },
+  "30753": {
+    "level": 10,
+    "short": "XM57",
+    "class": "AT-SPG"
+  },
+  "31009": {
+    "level": 8,
+    "short": "M-IX-Yoh",
+    "class": "heavyTank"
+  },
+  "31265": {
+    "level": 8,
+    "short": "T69 Defender",
+    "class": "mediumTank"
+  },
+  "31521": {
+    "level": 8,
+    "short": "T49 Defender",
+    "class": "lightTank"
+  },
+  "49": {
+    "level": 8,
+    "short": "Type 59",
+    "class": "mediumTank"
+  },
+  "817": {
+    "level": 8,
+    "short": "WZ-111",
+    "class": "heavyTank"
+  },
+  "1073": {
+    "level": 7,
+    "short": "T-34-1",
+    "class": "mediumTank"
+  },
+  "1329": {
+    "level": 1,
+    "short": "NC-31",
+    "class": "lightTank"
+  },
+  "1585": {
+    "level": 8,
+    "short": "T-34-2",
+    "class": "mediumTank"
+  },
+  "1841": {
+    "level": 9,
+    "short": "WZ-120",
+    "class": "mediumTank"
+  },
+  "2097": {
+    "level": 9,
+    "short": "WZ-111 1-4",
+    "class": "heavyTank"
+  },
+  "2353": {
+    "level": 1,
+    "short": "VAE Type B",
+    "class": "lightTank"
+  },
+  "2865": {
+    "level": 8,
+    "short": "WZ-110",
+    "class": "heavyTank"
+  },
+  "3121": {
+    "level": 4,
+    "short": "M5A1 Stuart",
+    "class": "lightTank"
+  },
+  "3377": {
+    "level": 7,
+    "short": "WZ-131",
+    "class": "lightTank"
+  },
+  "3633": {
+    "level": 7,
+    "short": "IS-2",
+    "class": "heavyTank"
+  },
+  "3889": {
+    "level": 8,
+    "short": "WZ-132",
+    "class": "lightTank"
+  },
+  "4145": {
+    "level": 10,
+    "short": "WZ-121",
+    "class": "mediumTank"
+  },
+  "4401": {
+    "level": 3,
+    "short": "Chi-Ha",
+    "class": "mediumTank"
+  },
+  "4657": {
+    "level": 5,
+    "short": "Type T-34",
+    "class": "mediumTank"
+  },
+  "4913": {
+    "level": 6,
+    "short": "59-16",
+    "class": "lightTank"
+  },
+  "5169": {
+    "level": 6,
+    "short": "Type 58",
+    "class": "mediumTank"
+  },
+  "5425": {
+    "level": 10,
+    "short": "WZ-113",
+    "class": "heavyTank"
+  },
+  "64561": {
+    "level": 8,
+    "short": "112 Ледяной",
+    "class": "heavyTank"
+  },
+  "65329": {
+    "level": 7,
+    "short": "Type 62",
+    "class": "lightTank"
+  },
+  "2609": {
+    "level": 6,
+    "short": "Type 64",
+    "class": "lightTank"
+  },
+  "5681": {
+    "level": 10,
+    "short": "121B",
+    "class": "mediumTank"
+  },
+  "5937": {
+    "level": 8,
+    "short": "59-Patton",
+    "class": "mediumTank"
+  },
+  "6193": {
+    "level": 8,
+    "short": "T-34-3",
+    "class": "mediumTank"
+  },
+  "6449": {
+    "level": 10,
+    "short": "WZ-113G FT",
+    "class": "AT-SPG"
+  },
+  "6705": {
+    "level": 2,
+    "short": "LT vz. 38",
+    "class": "lightTank"
+  },
+  "6961": {
+    "level": 8,
+    "short": "WZ-120-1G FT",
+    "class": "AT-SPG"
+  },
+  "7217": {
+    "level": 8,
+    "short": "WZ-112-2",
+    "class": "heavyTank"
+  },
+  "7473": {
+    "level": 7,
+    "short": "T-34-2G FT",
+    "class": "AT-SPG"
+  },
+  "7729": {
+    "level": 6,
+    "short": "WZ-131G FT",
+    "class": "AT-SPG"
+  },
+  "7985": {
+    "level": 8,
+    "short": "WZ-111-1G FT",
+    "class": "AT-SPG"
+  },
+  "8241": {
+    "level": 9,
+    "short": "WZ-111G FT",
+    "class": "AT-SPG"
+  },
+  "8497": {
+    "level": 10,
+    "short": "WZ-111 5A",
+    "class": "heavyTank"
+  },
+  "8753": {
+    "level": 7,
+    "short": "M41D",
+    "class": "lightTank"
+  },
+  "9009": {
+    "level": 6,
+    "short": "Бык",
+    "class": "mediumTank"
+  },
+  "9265": {
+    "level": 6,
+    "short": "Type 58",
+    "class": "mediumTank"
+  },
+  "9521": {
+    "level": 8,
+    "short": "WZ-122 TM",
+    "class": "mediumTank"
+  },
+  "9777": {
+    "level": 9,
+    "short": "WZ-114",
+    "class": "heavyTank"
+  },
+  "10033": {
+    "level": 9,
+    "short": "WZ-132A",
+    "class": "lightTank"
+  },
+  "10289": {
+    "level": 10,
+    "short": "WZ-132-1",
+    "class": "lightTank"
+  },
+  "10545": {
+    "level": 6,
+    "short": "Ветер",
+    "class": "lightTank"
+  },
+  "10801": {
+    "level": 6,
+    "short": "Паньлун",
+    "class": "AT-SPG"
+  },
+  "11057": {
+    "level": 10,
+    "short": "114 SP2",
+    "class": "heavyTank"
+  },
+  "11569": {
+    "level": 9,
+    "short": "BZ-58-2",
+    "class": "heavyTank"
+  },
+  "11825": {
+    "level": 10,
+    "short": "BZ-75",
+    "class": "heavyTank"
+  },
+  "12081": {
+    "level": 9,
+    "short": "BZ-68",
+    "class": "heavyTank"
+  },
+  "12337": {
+    "level": 7,
+    "short": "BZ-58",
+    "class": "heavyTank"
+  },
+  "12593": {
+    "level": 8,
+    "short": "BZ-166",
+    "class": "heavyTank"
+  },
+  "12849": {
+    "level": 8,
+    "short": "WZ-1G-P Бесстрашный",
+    "class": "AT-SPG"
+  },
+  "13105": {
+    "level": 8,
+    "short": "WZ-113-II",
+    "class": "heavyTank"
+  },
+  "13361": {
+    "level": 10,
+    "short": "116-F3",
+    "class": "heavyTank"
+  },
+  "13617": {
+    "level": 8,
+    "short": "BZ-176",
+    "class": "heavyTank"
+  },
+  "14129": {
+    "level": 8,
+    "short": "WZ-111 6",
+    "class": "heavyTank"
+  },
+  "14385": {
+    "level": 9,
+    "short": "DZT-159",
+    "class": "mediumTank"
+  },
+  "321": {
+    "level": 3,
+    "short": "D2",
+    "class": "heavyTank"
+  },
+  "577": {
+    "level": 1,
+    "short": "FT",
+    "class": "lightTank"
+  },
+  "1089": {
+    "level": 4,
+    "short": "B1",
+    "class": "heavyTank"
+  },
+  "1601": {
+    "level": 2,
+    "short": "D1",
+    "class": "lightTank"
+  },
+  "2369": {
+    "level": 3,
+    "short": "FCM36Pak40",
+    "class": "AT-SPG"
+  },
+  "2625": {
+    "level": 6,
+    "short": "ARL 44",
+    "class": "heavyTank"
+  },
+  "2881": {
+    "level": 4,
+    "short": "AMX 40",
+    "class": "mediumTank"
+  },
+  "3137": {
+    "level": 8,
+    "short": "AMX 50 100",
+    "class": "heavyTank"
+  },
+  "3649": {
+    "level": 10,
+    "short": "B-C 25 t",
+    "class": "lightTank"
+  },
+  "3905": {
+    "level": 9,
+    "short": "AMX 50 120",
+    "class": "heavyTank"
+  },
+  "4929": {
+    "level": 8,
+    "short": "AMX 13 90",
+    "class": "lightTank"
+  },
+  "5185": {
+    "level": 7,
+    "short": "AMX 13 75",
+    "class": "lightTank"
+  },
+  "5953": {
+    "level": 2,
+    "short": "AMX 38",
+    "class": "mediumTank"
+  },
+  "6209": {
+    "level": 10,
+    "short": "AMX 50 B",
+    "class": "heavyTank"
+  },
+  "6465": {
+    "level": 6,
+    "short": "AMX 12 t",
+    "class": "lightTank"
+  },
+  "6721": {
+    "level": 5,
+    "short": "BDR G1 B",
+    "class": "heavyTank"
+  },
+  "6977": {
+    "level": 7,
+    "short": "AMX M4 45",
+    "class": "heavyTank"
+  },
+  "7745": {
+    "level": 2,
+    "short": "FT AC",
+    "class": "AT-SPG"
+  },
+  "8257": {
+    "level": 3,
+    "short": "UE 57",
+    "class": "AT-SPG"
+  },
+  "9793": {
+    "level": 4,
+    "short": "SAu 40",
+    "class": "AT-SPG"
+  },
+  "10049": {
+    "level": 5,
+    "short": "S35 CA",
+    "class": "AT-SPG"
+  },
+  "10817": {
+    "level": 7,
+    "short": "AMX AC 46",
+    "class": "AT-SPG"
+  },
+  "11073": {
+    "level": 9,
+    "short": "Foch",
+    "class": "AT-SPG"
+  },
+  "11585": {
+    "level": 6,
+    "short": "ARL V39",
+    "class": "AT-SPG"
+  },
+  "12097": {
+    "level": 8,
+    "short": "AMX AC 48",
+    "class": "AT-SPG"
+  },
+  "13889": {
+    "level": 10,
+    "short": "Foch 155",
+    "class": "AT-SPG"
+  },
+  "14145": {
+    "level": 5,
+    "short": "AMX ELC bis",
+    "class": "lightTank"
+  },
+  "63553": {
+    "level": 8,
+    "short": "AMX CDC",
+    "class": "mediumTank"
+  },
+  "64065": {
+    "level": 8,
+    "short": "FCM 50 t",
+    "class": "mediumTank"
+  },
+  "1857": {
+    "level": 9,
+    "short": "B-C 25 t AP",
+    "class": "lightTank"
+  },
+  "16705": {
+    "level": 8,
+    "short": "AMX M4 49",
+    "class": "heavyTank"
+  },
+  "15937": {
+    "level": 1,
+    "short": "R35",
+    "class": "mediumTank"
+  },
+  "4417": {
+    "level": 10,
+    "short": "AMX M4 mle. 54",
+    "class": "heavyTank"
+  },
+  "8001": {
+    "level": 8,
+    "short": "Lorraine 40 t",
+    "class": "mediumTank"
+  },
+  "5441": {
+    "level": 9,
+    "short": "AMX 30 1er prot.",
+    "class": "mediumTank"
+  },
+  "8513": {
+    "level": 10,
+    "short": "AMX 30 B",
+    "class": "mediumTank"
+  },
+  "16193": {
+    "level": 8,
+    "short": "M4A1 Rev.",
+    "class": "mediumTank"
+  },
+  "16449": {
+    "level": 7,
+    "short": "AMX 13 57",
+    "class": "lightTank"
+  },
+  "17217": {
+    "level": 6,
+    "short": "Стиратель BP44",
+    "class": "heavyTank"
+  },
+  "17473": {
+    "level": 8,
+    "short": "AMX Defender",
+    "class": "lightTank"
+  },
+  "17729": {
+    "level": 8,
+    "short": "Somua SM",
+    "class": "heavyTank"
+  },
+  "17985": {
+    "level": 6,
+    "short": "Bretagne Panther",
+    "class": "mediumTank"
+  },
+  "18241": {
+    "level": 8,
+    "short": "B-C Bourrasque",
+    "class": "mediumTank"
+  },
+  "18497": {
+    "level": 8,
+    "short": "Lorraine Бесстрашный",
+    "class": "mediumTank"
+  },
+  "18753": {
+    "level": 8,
+    "short": "AMX CDA 105",
+    "class": "AT-SPG"
+  },
+  "19009": {
+    "level": 6,
+    "short": "AMXmas",
+    "class": "lightTank"
+  },
+  "19265": {
+    "level": 6,
+    "short": "Шарль",
+    "class": "AT-SPG"
+  },
+  "19521": {
+    "level": 9,
+    "short": "B-C 25 t Roland",
+    "class": "lightTank"
+  },
+  "19777": {
+    "level": 8,
+    "short": "A.P. AMX 30",
+    "class": "mediumTank"
+  },
+  "20033": {
+    "level": 9,
+    "short": "Char Futur 4",
+    "class": "mediumTank"
+  },
+  "20289": {
+    "level": 6,
+    "short": "Искатель",
+    "class": "AT-SPG"
+  },
+  "20545": {
+    "level": 5,
+    "short": "Renault G1",
+    "class": "heavyTank"
+  },
+  "20801": {
+    "level": 9,
+    "short": "Char Mle. 75",
+    "class": "lightTank"
+  },
+  "21057": {
+    "level": 8,
+    "short": "Char Lourd",
+    "class": "heavyTank"
+  },
+  "21313": {
+    "level": 10,
+    "short": "Projet Murat",
+    "class": "mediumTank"
+  },
+  "21569": {
+    "level": 9,
+    "short": "Lorraine 50 t",
+    "class": "heavyTank"
+  },
+  "81": {
+    "level": 1,
+    "short": "Medium I",
+    "class": "lightTank"
+  },
+  "337": {
+    "level": 2,
+    "short": "Medium II",
+    "class": "mediumTank"
+  },
+  "849": {
+    "level": 4,
+    "short": "Matilda",
+    "class": "heavyTank"
+  },
+  "1105": {
+    "level": 6,
+    "short": "Cromwell",
+    "class": "mediumTank"
+  },
+  "2129": {
+    "level": 5,
+    "short": "Crusader",
+    "class": "lightTank"
+  },
+  "2385": {
+    "level": 3,
+    "short": "Medium III",
+    "class": "mediumTank"
+  },
+  "2897": {
+    "level": 5,
+    "short": "Churchill I",
+    "class": "heavyTank"
+  },
+  "3153": {
+    "level": 7,
+    "short": "Black Prince",
+    "class": "heavyTank"
+  },
+  "3921": {
+    "level": 8,
+    "short": "Caernarvon",
+    "class": "heavyTank"
+  },
+  "4433": {
+    "level": 9,
+    "short": "Conqueror",
+    "class": "heavyTank"
+  },
+  "4689": {
+    "level": 6,
+    "short": "Churchill VII",
+    "class": "heavyTank"
+  },
+  "4945": {
+    "level": 4,
+    "short": "Valentine Mk. IX",
+    "class": "lightTank"
+  },
+  "5201": {
+    "level": 2,
+    "short": "Cruiser I",
+    "class": "lightTank"
+  },
+  "5457": {
+    "level": 7,
+    "short": "Comet",
+    "class": "mediumTank"
+  },
+  "5713": {
+    "level": 9,
+    "short": "Centurion 7/1",
+    "class": "mediumTank"
+  },
+  "5969": {
+    "level": 8,
+    "short": "Centurion I",
+    "class": "mediumTank"
+  },
+  "6225": {
+    "level": 10,
+    "short": "FV215b",
+    "class": "heavyTank"
+  },
+  "6481": {
+    "level": 4,
+    "short": "Covenanter",
+    "class": "lightTank"
+  },
+  "6993": {
+    "level": 1,
+    "short": "Cruiser II",
+    "class": "lightTank"
+  },
+  "7249": {
+    "level": 10,
+    "short": "FV4202",
+    "class": "mediumTank"
+  },
+  "7505": {
+    "level": 3,
+    "short": "Cruiser IV",
+    "class": "mediumTank"
+  },
+  "7761": {
+    "level": 2,
+    "short": "Cruiser III",
+    "class": "mediumTank"
+  },
+  "8017": {
+    "level": 3,
+    "short": "Valentine AT",
+    "class": "AT-SPG"
+  },
+  "8273": {
+    "level": 2,
+    "short": "UC 2-pdr",
+    "class": "AT-SPG"
+  },
+  "8529": {
+    "level": 8,
+    "short": "AT 15",
+    "class": "AT-SPG"
+  },
+  "8785": {
+    "level": 5,
+    "short": "AT 2",
+    "class": "AT-SPG"
+  },
+  "9041": {
+    "level": 4,
+    "short": "Alecto",
+    "class": "AT-SPG"
+  },
+  "9297": {
+    "level": 10,
+    "short": "FV215b 183",
+    "class": "AT-SPG"
+  },
+  "9553": {
+    "level": 6,
+    "short": "AT 8",
+    "class": "AT-SPG"
+  },
+  "9809": {
+    "level": 6,
+    "short": "Churchill GC",
+    "class": "AT-SPG"
+  },
+  "10065": {
+    "level": 7,
+    "short": "AT 7",
+    "class": "AT-SPG"
+  },
+  "15441": {
+    "level": 8,
+    "short": "Chieftain",
+    "class": "heavyTank"
+  },
+  "52561": {
+    "level": 9,
+    "short": "Tortoise",
+    "class": "AT-SPG"
+  },
+  "53585": {
+    "level": 5,
+    "short": "Matilda BP",
+    "class": "mediumTank"
+  },
+  "53841": {
+    "level": 6,
+    "short": "TOG II*",
+    "class": "heavyTank"
+  },
+  "54097": {
+    "level": 7,
+    "short": "AT 15A",
+    "class": "AT-SPG"
+  },
+  "54353": {
+    "level": 5,
+    "short": "Excelsior",
+    "class": "heavyTank"
+  },
+  "54865": {
+    "level": 2,
+    "short": "Light VIC",
+    "class": "lightTank"
+  },
+  "55889": {
+    "level": 6,
+    "short": "Cromwell B",
+    "class": "mediumTank"
+  },
+  "64081": {
+    "level": 1,
+    "short": "Mk I* Heavy Tank",
+    "class": "heavyTank"
+  },
+  "64337": {
+    "level": 6,
+    "short": "AC IV Sentinel",
+    "class": "mediumTank"
+  },
+  "64593": {
+    "level": 5,
+    "short": "Коннор Гневный",
+    "class": "AT-SPG"
+  },
+  "64849": {
+    "level": 4,
+    "short": "AC 1 Sentinel",
+    "class": "mediumTank"
+  },
+  "65105": {
+    "level": 1,
+    "short": "Medium I",
+    "class": "lightTank"
+  },
+  "65361": {
+    "level": 1,
+    "short": "Medium I",
+    "class": "lightTank"
+  },
+  "593": {
+    "level": 6,
+    "short": "Sherman Firefly",
+    "class": "mediumTank"
+  },
+  "1361": {
+    "level": 6,
+    "short": "Churchill Mk. VI",
+    "class": "heavyTank"
+  },
+  "1617": {
+    "level": 5,
+    "short": "Sherman V",
+    "class": "mediumTank"
+  },
+  "15697": {
+    "level": 10,
+    "short": "Chieftain Mk. 6",
+    "class": "heavyTank"
+  },
+  "15953": {
+    "level": 7,
+    "short": "FV201 (A45)",
+    "class": "heavyTank"
+  },
+  "16209": {
+    "level": 1,
+    "short": "Cruiser I",
+    "class": "lightTank"
+  },
+  "16465": {
+    "level": 1,
+    "short": "Cruiser I",
+    "class": "lightTank"
+  },
+  "17233": {
+    "level": 9,
+    "short": "Conway",
+    "class": "AT-SPG"
+  },
+  "17489": {
+    "level": 8,
+    "short": "Charioteer",
+    "class": "AT-SPG"
+  },
+  "17745": {
+    "level": 10,
+    "short": "FV217 Badger",
+    "class": "AT-SPG"
+  },
+  "18001": {
+    "level": 10,
+    "short": "FV4005",
+    "class": "AT-SPG"
+  },
+  "18257": {
+    "level": 7,
+    "short": "Challenger",
+    "class": "AT-SPG"
+  },
+  "18513": {
+    "level": 8,
+    "short": "Chimera",
+    "class": "mediumTank"
+  },
+  "18769": {
+    "level": 8,
+    "short": "Action X",
+    "class": "heavyTank"
+  },
+  "19025": {
+    "level": 8,
+    "short": "Defender Mk. 1",
+    "class": "mediumTank"
+  },
+  "19281": {
+    "level": 10,
+    "short": "Super Conqueror",
+    "class": "heavyTank"
+  },
+  "19537": {
+    "level": 10,
+    "short": "Vickers Light",
+    "class": "lightTank"
+  },
+  "19793": {
+    "level": 9,
+    "short": "Vickers CR",
+    "class": "lightTank"
+  },
+  "20049": {
+    "level": 8,
+    "short": "FV301",
+    "class": "lightTank"
+  },
+  "20305": {
+    "level": 8,
+    "short": "Centurion Mk. 5/1",
+    "class": "mediumTank"
+  },
+  "20561": {
+    "level": 8,
+    "short": "Turtle Mk. I",
+    "class": "AT-SPG"
+  },
+  "20817": {
+    "level": 6,
+    "short": "Эксплорер",
+    "class": "mediumTank"
+  },
+  "21073": {
+    "level": 6,
+    "short": "Дредноут",
+    "class": "AT-SPG"
+  },
+  "21329": {
+    "level": 8,
+    "short": "GSOR 1008",
+    "class": "AT-SPG"
+  },
+  "21585": {
+    "level": 6,
+    "short": "Blasteroid",
+    "class": "heavyTank"
+  },
+  "21841": {
+    "level": 8,
+    "short": "Caliban",
+    "class": "heavyTank"
+  },
+  "22097": {
+    "level": 6,
+    "short": "Churchill VIII",
+    "class": "heavyTank"
+  },
+  "22353": {
+    "level": 6,
+    "short": "Churchill W",
+    "class": "heavyTank"
+  },
+  "22609": {
+    "level": 8,
+    "short": "Caernarvon Defender",
+    "class": "heavyTank"
+  },
+  "22865": {
+    "level": 8,
+    "short": "Charlemagne",
+    "class": "heavyTank"
+  },
+  "23121": {
+    "level": 9,
+    "short": "Cobra",
+    "class": "mediumTank"
+  },
+  "23377": {
+    "level": 8,
+    "short": "FV1066 Senlac",
+    "class": "lightTank"
+  },
+  "23633": {
+    "level": 10,
+    "short": "FV205b Alligator",
+    "class": "AT-SPG"
+  },
+  "23889": {
+    "level": 10,
+    "short": "Vickers Mk. 3",
+    "class": "heavyTank"
+  },
+  "353": {
+    "level": 2,
+    "short": "Chi-Ni",
+    "class": "mediumTank"
+  },
+  "609": {
+    "level": 1,
+    "short": "R. Otsu",
+    "class": "lightTank"
+  },
+  "865": {
+    "level": 1,
+    "short": "Ha-Go",
+    "class": "lightTank"
+  },
+  "1121": {
+    "level": 7,
+    "short": "Chi-Ri",
+    "class": "mediumTank"
+  },
+  "1377": {
+    "level": 5,
+    "short": "Chi-Nu",
+    "class": "mediumTank"
+  },
+  "1633": {
+    "level": 4,
+    "short": "Chi-He",
+    "class": "mediumTank"
+  },
+  "1889": {
+    "level": 6,
+    "short": "Chi-To",
+    "class": "mediumTank"
+  },
+  "2145": {
+    "level": 3,
+    "short": "Chi-Ha",
+    "class": "mediumTank"
+  },
+  "2401": {
+    "level": 3,
+    "short": "Ke-Ni",
+    "class": "lightTank"
+  },
+  "2657": {
+    "level": 8,
+    "short": "STA-1",
+    "class": "mediumTank"
+  },
+  "2913": {
+    "level": 4,
+    "short": "Ke-Ho",
+    "class": "lightTank"
+  },
+  "3425": {
+    "level": 9,
+    "short": "Type 61",
+    "class": "mediumTank"
+  },
+  "3681": {
+    "level": 10,
+    "short": "STB-1",
+    "class": "mediumTank"
+  },
+  "51809": {
+    "level": 3,
+    "short": "Ke-Ni Otsu",
+    "class": "lightTank"
+  },
+  "63585": {
+    "level": 6,
+    "short": "Tiger L",
+    "class": "heavyTank"
+  },
+  "63841": {
+    "level": 5,
+    "short": "Panzer IV L",
+    "class": "mediumTank"
+  },
+  "65377": {
+    "level": 5,
+    "short": "Chi-Nu Kai",
+    "class": "mediumTank"
+  },
+  "52065": {
+    "level": 4,
+    "short": "Hetzer L",
+    "class": "AT-SPG"
+  },
+  "3937": {
+    "level": 10,
+    "short": "Ho-Ri",
+    "class": "AT-SPG"
+  },
+  "4193": {
+    "level": 9,
+    "short": "Ho-Ri T.II",
+    "class": "AT-SPG"
+  },
+  "4449": {
+    "level": 7,
+    "short": "IS-2 L",
+    "class": "heavyTank"
+  },
+  "4705": {
+    "level": 6,
+    "short": "Firefly L",
+    "class": "mediumTank"
+  },
+  "4961": {
+    "level": 8,
+    "short": "Ho-Ri T.I",
+    "class": "AT-SPG"
+  },
+  "5217": {
+    "level": 7,
+    "short": "Chi-To SPG",
+    "class": "AT-SPG"
+  },
+  "5473": {
+    "level": 5,
+    "short": "Mitsu 108",
+    "class": "heavyTank"
+  },
+  "5729": {
+    "level": 6,
+    "short": "Ju-Nu",
+    "class": "heavyTank"
+  },
+  "5985": {
+    "level": 7,
+    "short": "Ju-To",
+    "class": "heavyTank"
+  },
+  "6241": {
+    "level": 8,
+    "short": "Chi-Se",
+    "class": "heavyTank"
+  },
+  "6497": {
+    "level": 9,
+    "short": "Type 68",
+    "class": "heavyTank"
+  },
+  "6753": {
+    "level": 10,
+    "short": "Type 71",
+    "class": "heavyTank"
+  },
+  "7009": {
+    "level": 8,
+    "short": "Type 57",
+    "class": "heavyTank"
+  },
+  "7265": {
+    "level": 6,
+    "short": "Ferrum",
+    "class": "heavyTank"
+  },
+  "7521": {
+    "level": 8,
+    "short": "Type 5 Ka-Ri",
+    "class": "AT-SPG"
+  },
+  "7777": {
+    "level": 10,
+    "short": "Type 63",
+    "class": "heavyTank"
+  },
+  "17265": {
+    "level": 10,
+    "short": "Протей",
+    "class": "AT-SPG",
+    "testTank": false
+  },
+  "625": {
+    "level": 6,
+    "short": "Strv 74A2",
+    "class": "mediumTank"
+  },
+  "881": {
+    "level": 7,
+    "short": "Омнитрон",
+    "class": "mediumTank"
+  },
+  "1393": {
+    "level": 7,
+    "short": "Вортекс",
+    "class": "heavyTank"
+  },
+  "1649": {
+    "level": 7,
+    "short": "Хелсинг",
+    "class": "AT-SPG"
+  },
+  "1905": {
+    "level": 8,
+    "short": "Mk. 47",
+    "class": "mediumTank"
+  },
+  "2161": {
+    "level": 7,
+    "short": "WZ Пылающий",
+    "class": "AT-SPG"
+  },
+  "63601": {
+    "level": 7,
+    "short": "Дракула",
+    "class": "mediumTank"
+  },
+  "3697": {
+    "level": 7,
+    "short": "Магнетрон",
+    "class": "heavyTank"
+  },
+  "113": {
+    "level": 7,
+    "short": "Устрашитель",
+    "class": "AT-SPG"
+  },
+  "1137": {
+    "level": 7,
+    "short": "Налётчик",
+    "class": "heavyTank"
+  },
+  "3953": {
+    "level": 9,
+    "short": "T 55A",
+    "class": "mediumTank"
+  },
+  "4209": {
+    "level": 1,
+    "short": "WarDuck",
+    "class": "mediumTank"
+  },
+  "4465": {
+    "level": 7,
+    "short": "Барстер",
+    "class": "mediumTank"
+  },
+  "4721": {
+    "level": 7,
+    "short": "Могильщик",
+    "class": "heavyTank"
+  },
+  "4977": {
+    "level": 5,
+    "short": "Мародёр",
+    "class": "mediumTank"
+  },
+  "5233": {
+    "level": 7,
+    "short": "Крушитель",
+    "class": "heavyTank"
+  },
+  "5489": {
+    "level": 5,
+    "short": "Y5 T-34",
+    "class": "mediumTank"
+  },
+  "5745": {
+    "level": 6,
+    "short": "Y5 Firefly",
+    "class": "mediumTank"
+  },
+  "6001": {
+    "level": 7,
+    "short": "Y5 ELC bis",
+    "class": "mediumTank"
+  },
+  "6257": {
+    "level": 7,
+    "short": "M4/FL10",
+    "class": "mediumTank"
+  },
+  "7025": {
+    "level": 7,
+    "short": "Торакс",
+    "class": "heavyTank"
+  },
+  "7281": {
+    "level": 7,
+    "short": "Ликан",
+    "class": "heavyTank"
+  },
+  "7537": {
+    "level": 5,
+    "short": "Кошмар",
+    "class": "AT-SPG"
+  },
+  "7793": {
+    "level": 7,
+    "short": "Уничтожитель",
+    "class": "heavyTank"
+  },
+  "8049": {
+    "level": 5,
+    "short": "Шип",
+    "class": "mediumTank"
+  },
+  "8305": {
+    "level": 7,
+    "short": "Titan H-Nd",
+    "class": "heavyTank"
+  },
+  "8561": {
+    "level": 6,
+    "short": "Titan T24 57",
+    "class": "lightTank"
+  },
+  "8817": {
+    "level": 5,
+    "short": "Titan Mk. I",
+    "class": "lightTank"
+  },
+  "9073": {
+    "level": 8,
+    "short": "Titan-54d",
+    "class": "mediumTank"
+  },
+  "9329": {
+    "level": 6,
+    "short": "Titan-150",
+    "class": "heavyTank"
+  },
+  "9841": {
+    "level": 6,
+    "short": "Rover",
+    "class": "lightTank"
+  },
+  "10097": {
+    "level": 5,
+    "short": "Меджай",
+    "class": "heavyTank"
+  },
+  "10353": {
+    "level": 7,
+    "short": "Фараон",
+    "class": "heavyTank"
+  },
+  "10609": {
+    "level": 7,
+    "short": "Magnate",
+    "class": "mediumTank"
+  },
+  "10865": {
+    "level": 8,
+    "short": "Fixer",
+    "class": "mediumTank"
+  },
+  "11121": {
+    "level": 9,
+    "short": "Regressor",
+    "class": "heavyTank"
+  },
+  "11633": {
+    "level": 7,
+    "short": "Чародей",
+    "class": "heavyTank"
+  },
+  "12401": {
+    "level": 8,
+    "short": "Чёрный Пёс",
+    "class": "mediumTank"
+  },
+  "13169": {
+    "level": 10,
+    "short": "ЛВ-1300 Уран",
+    "class": "heavyTank"
+  },
+  "13425": {
+    "level": 9,
+    "short": "ЛВ-750 Паллада",
+    "class": "heavyTank"
+  },
+  "13681": {
+    "level": 8,
+    "short": "ЛВ-500 Арес",
+    "class": "heavyTank"
+  },
+  "13937": {
+    "level": 7,
+    "short": "ЛВ-90 Прометей",
+    "class": "heavyTank"
+  },
+  "14193": {
+    "level": 6,
+    "short": "ЛВ-7 Гиперион",
+    "class": "heavyTank"
+  },
+  "14449": {
+    "level": 5,
+    "short": "ЛВ-4 Понт",
+    "class": "heavyTank"
+  },
+  "14705": {
+    "level": 7,
+    "short": "Спутник",
+    "class": "mediumTank"
+  },
+  "14961": {
+    "level": 8,
+    "short": "ЛВ-426 Атлант",
+    "class": "heavyTank"
+  },
+  "15217": {
+    "level": 7,
+    "short": "Богатырь",
+    "class": "heavyTank"
+  },
+  "15473": {
+    "level": 10,
+    "short": "МБ-64 Галилей",
+    "class": "mediumTank"
+  },
+  "15729": {
+    "level": 8,
+    "short": "МБ-56 Амадей",
+    "class": "mediumTank"
+  },
+  "15985": {
+    "level": 9,
+    "short": "МБ-35 Кулибин",
+    "class": "mediumTank"
+  },
+  "16241": {
+    "level": 8,
+    "short": "МБ-73 Коперник",
+    "class": "mediumTank"
+  },
+  "16497": {
+    "level": 7,
+    "short": "МБ-15 Лавлейс",
+    "class": "mediumTank"
+  },
+  "17009": {
+    "level": 5,
+    "short": "МБ-43 Ньютон",
+    "class": "mediumTank"
+  },
+  "17521": {
+    "level": 6,
+    "short": "МБ-48 Бруно",
+    "class": "mediumTank"
+  },
+  "17777": {
+    "level": 9,
+    "short": "Hagen",
+    "class": "lightTank"
+  },
+  "18033": {
+    "level": 8,
+    "short": "Ударник",
+    "class": "heavyTank"
+  },
+  "18289": {
+    "level": 7,
+    "short": "Биоморф",
+    "class": "heavyTank"
+  },
+  "18545": {
+    "level": 10,
+    "short": "МБ-85 Бор",
+    "class": "mediumTank"
+  },
+  "385": {
+    "level": 10,
+    "short": "Progetto 65",
+    "class": "mediumTank"
+  },
+  "641": {
+    "level": 9,
+    "short": "Standard B",
+    "class": "mediumTank"
+  },
+  "897": {
+    "level": 8,
+    "short": "P.44 Pantera",
+    "class": "mediumTank"
+  },
+  "1153": {
+    "level": 7,
+    "short": "P.43 ter",
+    "class": "mediumTank"
+  },
+  "1409": {
+    "level": 6,
+    "short": "P.43 bis",
+    "class": "mediumTank"
+  },
+  "1921": {
+    "level": 5,
+    "short": "Strv m/42",
+    "class": "mediumTank"
+  },
+  "1665": {
+    "level": 4,
+    "short": "Lago",
+    "class": "mediumTank"
+  },
+  "2177": {
+    "level": 3,
+    "short": "14TP",
+    "class": "lightTank"
+  },
+  "2433": {
+    "level": 2,
+    "short": "10TP",
+    "class": "lightTank"
+  },
+  "2689": {
+    "level": 1,
+    "short": "Vickers Mk. F",
+    "class": "lightTank"
+  },
+  "2945": {
+    "level": 8,
+    "short": "Progetto 46",
+    "class": "mediumTank"
+  },
+  "3201": {
+    "level": 9,
+    "short": "50TP prototyp",
+    "class": "heavyTank"
+  },
+  "3713": {
+    "level": 6,
+    "short": "Strv 74",
+    "class": "mediumTank"
+  },
+  "3969": {
+    "level": 7,
+    "short": "Leo",
+    "class": "mediumTank"
+  },
+  "3457": {
+    "level": 8,
+    "short": "Emil I",
+    "class": "heavyTank"
+  },
+  "4225": {
+    "level": 9,
+    "short": "Emil II",
+    "class": "heavyTank"
+  },
+  "4481": {
+    "level": 10,
+    "short": "Kranvagn",
+    "class": "heavyTank"
+  },
+  "4737": {
+    "level": 8,
+    "short": "EMIL 1951",
+    "class": "heavyTank"
+  },
+  "4993": {
+    "level": 6,
+    "short": "P.43/06 ann.",
+    "class": "mediumTank"
+  },
+  "5249": {
+    "level": 6,
+    "short": "Pudel",
+    "class": "mediumTank"
+  },
+  "5505": {
+    "level": 10,
+    "short": "TVP T 50/51",
+    "class": "mediumTank"
+  },
+  "5761": {
+    "level": 9,
+    "short": "Škoda T 50",
+    "class": "mediumTank"
+  },
+  "6017": {
+    "level": 8,
+    "short": "TVP VTU",
+    "class": "mediumTank"
+  },
+  "6273": {
+    "level": 7,
+    "short": "T-34/100",
+    "class": "mediumTank"
+  },
+  "6529": {
+    "level": 6,
+    "short": "Škoda T 25",
+    "class": "mediumTank"
+  },
+  "6785": {
+    "level": 8,
+    "short": "Škoda T 27",
+    "class": "mediumTank"
+  },
+  "7041": {
+    "level": 6,
+    "short": "Turbo",
+    "class": "mediumTank"
+  },
+  "7297": {
+    "level": 10,
+    "short": "60TP Lewandowskiego",
+    "class": "heavyTank"
+  },
+  "7553": {
+    "level": 9,
+    "short": "50TP Tyszkiewicza",
+    "class": "heavyTank"
+  },
+  "7809": {
+    "level": 8,
+    "short": "53TP Markowskiego",
+    "class": "heavyTank"
+  },
+  "8065": {
+    "level": 6,
+    "short": "40TP Habicha",
+    "class": "heavyTank"
+  },
+  "8321": {
+    "level": 7,
+    "short": "45TP Habicha",
+    "class": "heavyTank"
+  },
+  "8577": {
+    "level": 8,
+    "short": "Lansen C",
+    "class": "mediumTank"
+  },
+  "8833": {
+    "level": 6,
+    "short": "Spark",
+    "class": "mediumTank"
+  },
+  "9089": {
+    "level": 8,
+    "short": "Škoda T 56",
+    "class": "heavyTank"
+  },
+  "9345": {
+    "level": 7,
+    "short": "Свей",
+    "class": "mediumTank"
+  },
+  "9601": {
+    "level": 7,
+    "short": "CS-52 LIS",
+    "class": "mediumTank"
+  },
+  "9857": {
+    "level": 7,
+    "short": "Škoda T 45",
+    "class": "heavyTank"
+  },
+  "10113": {
+    "level": 10,
+    "short": "Carro 45t",
+    "class": "mediumTank"
+  },
+  "10369": {
+    "level": 10,
+    "short": "Minotauro",
+    "class": "AT-SPG"
+  },
+  "10625": {
+    "level": 9,
+    "short": "CC 1 Mk. 2",
+    "class": "AT-SPG"
+  },
+  "10881": {
+    "level": 8,
+    "short": "SMV CC-64",
+    "class": "AT-SPG"
+  },
+  "11137": {
+    "level": 7,
+    "short": "SMV CC-56",
+    "class": "AT-SPG"
+  },
+  "11393": {
+    "level": 6,
+    "short": "Bassotto",
+    "class": "AT-SPG"
+  },
+  "11649": {
+    "level": 5,
+    "short": "Semovente M41",
+    "class": "AT-SPG"
+  },
+  "11905": {
+    "level": 6,
+    "short": "Мракоборец",
+    "class": "mediumTank"
+  },
+  "12161": {
+    "level": 10,
+    "short": "Strv K",
+    "class": "heavyTank"
+  },
+  "12417": {
+    "level": 8,
+    "short": "Bisonte C45",
+    "class": "heavyTank"
+  },
+  "12673": {
+    "level": 8,
+    "short": "Tornvagn",
+    "class": "heavyTank"
+  },
+  "12929": {
+    "level": 9,
+    "short": "TNH T Vz. 51",
+    "class": "heavyTank"
+  },
+  "13185": {
+    "level": 10,
+    "short": "Vz. 55",
+    "class": "heavyTank"
+  },
+  "13441": {
+    "level": 6,
+    "short": "Aeonix",
+    "class": "mediumTank"
+  },
+  "13697": {
+    "level": 8,
+    "short": "TNH 105/1000",
+    "class": "heavyTank"
+  },
+  "13953": {
+    "level": 7,
+    "short": "Vz. 44-1",
+    "class": "heavyTank"
+  },
+  "14209": {
+    "level": 6,
+    "short": "Škoda P-JS",
+    "class": "heavyTank"
+  },
+  "14465": {
+    "level": 5,
+    "short": "DS PZInż",
+    "class": "mediumTank"
+  },
+  "14721": {
+    "level": 8,
+    "short": "Strv 81",
+    "class": "mediumTank"
+  },
+  "14977": {
+    "level": 10,
+    "short": "CS-63",
+    "class": "mediumTank"
+  },
+  "15233": {
+    "level": 9,
+    "short": "CS-59",
+    "class": "mediumTank"
+  },
+  "15489": {
+    "level": 8,
+    "short": "CS-53",
+    "class": "mediumTank"
+  },
+  "15745": {
+    "level": 7,
+    "short": "CS-44",
+    "class": "mediumTank"
+  },
+  "16001": {
+    "level": 6,
+    "short": "B.U.G.I.",
+    "class": "mediumTank"
+  },
+  "16257": {
+    "level": 6,
+    "short": "Outcast",
+    "class": "heavyTank"
+  },
+  "16769": {
+    "level": 8,
+    "short": "SMV CC-67",
+    "class": "AT-SPG"
+  },
+  "17025": {
+    "level": 5,
+    "short": "Wz.40",
+    "class": "AT-SPG"
+  },
+  "17281": {
+    "level": 6,
+    "short": "Wz.44",
+    "class": "AT-SPG"
+  },
+  "17537": {
+    "level": 7,
+    "short": "Wz.57D",
+    "class": "AT-SPG"
+  },
+  "17793": {
+    "level": 8,
+    "short": "Wz.58T",
+    "class": "AT-SPG"
+  },
+  "18049": {
+    "level": 9,
+    "short": "Wz.60",
+    "class": "AT-SPG"
+  },
+  "18305": {
+    "level": 10,
+    "short": "Wz.70",
+    "class": "AT-SPG"
+  },
+  "18561": {
+    "level": 8,
+    "short": "Wz.66T",
+    "class": "AT-SPG"
+  },
+  "18817": {
+    "level": 8,
+    "short": "56TP",
+    "class": "heavyTank"
+  },
+  "19073": {
+    "level": 8,
+    "short": "CS-57 Sokol",
+    "class": "mediumTank"
+  }
+}
