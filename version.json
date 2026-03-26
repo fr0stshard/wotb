@@ -1,0 +1,30 @@
+{
+  "version": "1.1.0.1",
+  "released": "2026-03-26T12:00:00Z",
+  "download_url": "",
+  "changelog_ru": "Release",
+  "changelog_en": "",
+  "changelog_uk": "",
+  "nick_replacements": {
+    "wg": [
+      {
+        "original": "",
+        "replacement": ""
+      },
+      {
+        "original": "",
+        "replacement": ""
+      }
+    ],
+    "lesta": [
+      {
+        "original": "",
+        "replacement": ""
+      }
+    ]
+  },
+  "blocked_users": {
+    "wg": [],
+    "lesta": []
+  }
+}
